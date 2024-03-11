@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298049373302",
+    "project_id": "vehicle-finder-1a4e0",
+    "storage_bucket": "vehicle-finder-1a4e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298049373302:android:3e1b94c7bfeeae3de24b57",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrp4CQnOn4ADsM4DMrSeA2yCj42oV2A20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298049373302:android:db8cc8cbbee02dd3e24b57",
+        "android_client_info": {
+          "package_name": "com.example.vehiclefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrp4CQnOn4ADsM4DMrSeA2yCj42oV2A20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
